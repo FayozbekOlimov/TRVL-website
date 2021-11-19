@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/TRVL-website/static/css/main.e04ded8f.chunk.css",
-    "main.js": "/TRVL-website/static/js/main.d5f5f51d.chunk.js",
-    "main.js.map": "/TRVL-website/static/js/main.d5f5f51d.chunk.js.map",
+    "main.css": "/TRVL-website/static/css/main.3a5a2c3e.chunk.css",
+    "main.js": "/TRVL-website/static/js/main.cc89e0f9.chunk.js",
+    "main.js.map": "/TRVL-website/static/js/main.cc89e0f9.chunk.js.map",
     "runtime-main.js": "/TRVL-website/static/js/runtime-main.4717569a.js",
     "runtime-main.js.map": "/TRVL-website/static/js/runtime-main.4717569a.js.map",
     "static/js/2.5649ea6f.chunk.js": "/TRVL-website/static/js/2.5649ea6f.chunk.js",
     "static/js/2.5649ea6f.chunk.js.map": "/TRVL-website/static/js/2.5649ea6f.chunk.js.map",
     "index.html": "/TRVL-website/index.html",
-    "static/css/main.e04ded8f.chunk.css.map": "/TRVL-website/static/css/main.e04ded8f.chunk.css.map",
+    "static/css/main.3a5a2c3e.chunk.css.map": "/TRVL-website/static/css/main.3a5a2c3e.chunk.css.map",
     "static/js/2.5649ea6f.chunk.js.LICENSE.txt": "/TRVL-website/static/js/2.5649ea6f.chunk.js.LICENSE.txt",
     "static/media/App.css": "/TRVL-website/static/media/img-8.fabdf94d.jpg",
     "static/media/img-3.6d683c0e.jpg": "/TRVL-website/static/media/img-3.6d683c0e.jpg",
     "static/media/img-4.a31875b7.jpg": "/TRVL-website/static/media/img-4.a31875b7.jpg",
-    "static/media/img-9.f97f588f.jpg": "/TRVL-website/static/media/img-9.f97f588f.jpg"
+    "static/media/img-9.f97f588f.jpg": "/TRVL-website/static/media/img-9.f97f588f.jpg",
+    "static/media/HeroSection.css": "/TRVL-website/static/media/img-home.c034239e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.4717569a.js",
     "static/js/2.5649ea6f.chunk.js",
-    "static/css/main.e04ded8f.chunk.css",
-    "static/js/main.d5f5f51d.chunk.js"
+    "static/css/main.3a5a2c3e.chunk.css",
+    "static/js/main.cc89e0f9.chunk.js"
   ]
 }
